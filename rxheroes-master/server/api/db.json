@@ -1,0 +1,16 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Magneto"
+    },
+    {
+      "id": 2,
+      "name": "Doctor Strange"
+    },
+    {
+      "id": 3,
+      "name": "Batman"
+    }
+  ]
+}
